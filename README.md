@@ -1,6 +1,6 @@
 # Gravamen
 
-Core issue distillation for legal matters — Disciplina. by Strategos.
+Strategos tool. Coming soon.
 
 GitHub: https://github.com/ShadowStrike-CTF/gravamen
 
